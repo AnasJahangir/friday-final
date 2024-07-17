@@ -1,0 +1,297 @@
+/* Responsive CSS Document */
+
+/* 
+    Created on   : 15/09/2023.
+    Theme Name   : Babun - Business & Finance HTML5 Template
+    Version      : 1.0.
+    Developed by : (me@heloshape.com) / (www.me.heloshape.com)
+   
+*/
+
+@media (min-width: 992px) {
+  .container {padding-right: 0;padding-left: 0;}
+}
+/*(min-width: 992px)*/
+
+@media (min-width: 1400px) {
+  .hero-banner-three .container {max-width: 1430px;}
+
+}
+/*(min-width: 1400px)*/
+
+/*Grid xl Start*/
+
+/*(max-width: 1399px)*/
+
+
+
+/*Between Grid xl*/
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .theme-main-menu {padding: 15px 25px;}
+  .theme-main-menu.menu-style-two .gap-fix {padding-left: 25px; padding-right: 25px;}
+  .theme-main-menu.menu-style-five .inner-content {padding: 16px 25px;}
+  .h1, h1 {font-size: 65px;}
+  .h2, h2 {font-size: 56px;}
+  .title-two h2 {font-size: 64px;}
+  .title-four h2 {font-size: 55px;}
+  .text-xl {font-size: 24px;}
+  .text-lg {font-size: 22px;}
+  .hero-banner-one .hero-heading {padding: 11px 35px 25px 0;}
+  .block-feature-three .block-title a,
+  .block-feature-three .block-four .block-title a {font-size: 26px;}
+  .hero-banner-two .hero-heading {font-size: 80px;}
+  .hero-banner-three .hero-heading {font-size: 80px;}
+  .partner-logo-two .bg-wrapper .title {font-size: 24px;}
+  .partner-logo-two .bg-wrapper .logo-wrapper {font-size: 26px;}
+
+  .footer-five h2 {font-size: 110px;}
+  .block-feature-three .block-five {height: 334px;}
+
+  .fancy-banner-five h2 {font-size: 85px;}
+  .fancy-banner-six h2 {font-size: 72px;}
+  .hero-banner-six .hero-heading {font-size: 85px;}
+  .block-feature-eleven .slider-wrapper {width: 110vw;}
+  .portfolio-block-two .caption h3 a {font-size: 28px;}
+  .box-layout {margin: 25px;}
+}
+/*(min-width: 1200px) and (max-width: 1399px)*/
+
+
+@media (min-width: 992px) and (max-width: 1399px) { 
+  .text-md {font-size: 20px;}
+  .text-lg {font-size: 21px;}
+}
+/* (min-width: 992px) and (max-width: 1399px) */
+
+
+/*Grid lg Start*/
+@media (max-width: 1199px) {
+  .theme-main-menu {padding: 10px 12px;}
+  .theme-main-menu.menu-style-two .gap-fix {padding-left: 12px; padding-right: 12px;}
+  .theme-main-menu.menu-style-five .inner-content {padding: 12px; border-radius: 15px;}
+  .theme-main-menu.menu-style-two.fixed .inner-content {border: none;}
+  .theme-main-menu .nav-item .nav-link {font-size: 18px;}
+  .navbar .dropdown-menu .dropdown-item {font-size: 17px;}
+  .btn-one {font-size: 17px; line-height: 46px; padding: 0 22px; text-transform: uppercase;}
+  .btn-two {font-size: 18px; line-height: 45px; padding: 0 25px;}
+
+  .title-three .upper-title {font-size: 13px; margin-bottom: 10px;}
+  .hero-banner-one {min-height: 100%;}
+  .hero-banner-one .more-btn {width: 55px; height: 55px; font-size: 24px;}
+  .block-feature-three .block-title a {font-size: 24px;}
+  .block-feature-three .block-four .block-title a {font-size: 20px;}
+  .block-feature-three .block-two .text-wrapper {padding: 30px 15px 30px 30px;}
+  .accordion-style-one .accordion-item .accordion-button {font-size: 20px; padding: 20px 0;}
+  .footer-one {padding-top: 60px;}
+  .footer-one .footer-title,
+  .footer-three .footer-title,.footer-four .footer-title {font-size: 22px; margin-bottom: 12px;}
+  .footer-one .footer-newsletter form {width: 100%; max-width: 450px;}
+  .card-style-five .main-count {font-size: 45px; margin-top: 25px; padding-top: 15px;}
+  .card-style-five .icon {height: 38px;}
+  .card-style-six {padding: 30px 15px 35px;}
+  .card-style-six .icon {width: 60px; height: 60px;}
+  .fancy-banner-three .quote-btn {width: 120px; height: 120px;}
+  .fancy-banner-three {padding: 50px 0;}
+  .hero-banner-three .right-widget .main-count {font-size: 35px; margin: 0 0 -5px;}
+  .hero-banner-three .right-widget .icon {width: 70px;}
+  .counter-block-two .main-count {font-size: 40px;}
+  .card-style-nine {padding: 35px 20px 0;}
+  .card-style-nine h3 {font-size: 26px;}
+  .card-style-nine .icon {width: 45px; height: 45px; padding: 11px;}
+  .footer-three .footer-intro p a {font-size: 20px;}
+  .footer-three .round-bg {width: 300px; height: 300px;}
+  .title-two .upper-title {font-size: 18px;}
+  .text-feature-seven ul li {margin-bottom: 16px;}
+
+  .partner-logo-two .bg-wrapper {border-radius: 15px;}
+  .partner-logo-two .bg-wrapper .logo-wrapper {font-size: 25px;}
+  .partner-logo-two .bg-wrapper .title {font-size: 25px;}
+  .border-100 {border-radius: 15px;}
+  .footer-five {padding: 80px 0 0;}
+  .footer-five .btn-group .round-btn {width: 70px; height: 70px; font-size: 38px;}
+
+
+  .team-details .bg-wrapper .name {font-size: 26px;}
+  .team-details .bg-wrapper h6 {padding-top: 35px;}
+  .team-details .bg-wrapper h3 {font-size: 24px;}
+  .faq-section-three .tab-content {padding: 0 20px;}
+  .faq-section-three nav .nav .nav-link {font-size: 18px;}
+  .error-page h1 {font-size: 100px;}
+  .error-page h2 {font-size: 42px; padding: 20px 0 25px;}
+  .card-style-sixteen .text {padding-left: 20px;}
+  .block-feature-ten .line-wrapper:before {display: none;}
+
+
+  .contact-us-section .bg-wrapper {padding: 50px 20px;}
+
+
+  .card-style-nineteen h2 {font-size: 30px;}
+  .card-style-nineteen {padding: 30px 20px;}
+  .portfolio-two .slider-wrapper .slick-slider {margin: 0 -15px;}
+  .portfolio-two .slider-wrapper .slick-slider .slick-slide {margin: 0 15px 5px;}
+  .portfolio-block-two .caption span {font-size: 12px; margin-bottom: 5px;}
+  .portfolio-block-two .caption {padding: 20px 0 15px;}
+  .portfolio-block-two .caption h3 a {font-size: 24px;}
+  .portfolio-block-two .caption .round-btn {width: 50px; height: 50px; font-size: 24px;}
+
+  .box-layout {margin: 12px;}
+  .border-40 {border-radius: 20px;}
+  .fancy-banner-seven .bg-wrapper li {padding: 18px 20px 20px 50px; font-size: 20px;}
+  .fancy-banner-seven .bg-wrapper li:before {left: 15px; top:22px;}
+  .fancy-banner-seven .bg-wrapper li:after {left: 18px; top:18px;}
+}
+/*(max-width: 1199px)*/
+
+
+
+/*Between Grid lg*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .theme-main-menu .nav-item .nav-link {margin: 0 20px;}
+  .h1, h1 {font-size: 55px;}
+  .h2, h2,.fancy-banner-three .title-one h2 {font-size: 48px; line-height: 1.12em;}
+  .title-two h2 {font-size: 56px;}
+  .title-four h2 {font-size: 46px;}
+  .text-xl {font-size: 22px;}
+  .hero-banner-one .hero-heading {padding: 11px 47px 30px 25px;}
+  .hero-banner-three .hero-heading {font-size: 65px;}
+  .block-feature-three .section-btn {top:45px;}
+  .block-feature-three .block-one {height: 370px;}
+  .hero-banner-two .hero-heading {font-size: 68px;}
+  .block-feature-eight .section-btn {top:42px;}
+  .footer-five h2 {font-size: 92px;}
+  .footer-five .btn-group h3 {font-size: 50px;}
+  .block-feature-three .block-five {height: 289px;}
+  .project-details-one h2 {font-size: 38px; margin-bottom: 25px;}
+  .fancy-banner-six h2 {font-size: 60px;}
+  .hero-banner-six .hero-heading {font-size: 72px;}
+  
+}
+/*(min-width: 992px) and (max-width: 1199px)*/
+
+
+
+/*Grid md Start*/
+@media (max-width: 991px) {
+  body {font-size: 18px;}
+  p {line-height: 1.8em;}
+  .theme-main-menu.fixed {padding-top: 10px; padding-bottom: 10px;}
+  .theme-main-menu.menu-style-two.fixed {padding: 0;}
+  .h1, h1 {font-size: 40px; line-height: 1.15em;}
+  .h2, h2,.fancy-banner-three .title-one h2 {font-size: 36px; line-height: 1.15em;}
+  .title-two h2 {font-size: 40px;}
+  .title-four h2 {font-size: 38px;}
+  .h4, h4 {font-size: 22px;}
+  .text-xl {font-size: 20px;}
+  .text-lg {font-size: 19px;}
+  .text-md {font-size: 18px;}
+  .btn-ten {line-height: 45px; padding: 0 25px; min-width: 145px; font-weight: 500;}
+  .hero-banner-one::before {background: rgba(0, 0, 0, 0.6);}
+  .hero-banner-one .hero-heading {padding: 10px 15px; border-radius: 15px;}
+  .hero-banner-one .more-btn {left: auto; right: 12px; top:85px;}
+  .hero-banner-three .hero-heading {font-size: 45px;}
+  .block-feature-three .block-one{height: 350px;}
+  .block-feature-three .block-one .tag {font-size: 12px;}
+  .block-feature-three .block-one .block-title {padding: 10px 15px; margin-top: 20px;}
+  .block-feature-three:before {top:15%;}
+
+  .footer-one .footer-nav-link a {line-height: 40px;}
+  .footer-one .bottom-footer {text-align: center;}
+  .footer-one .footer-newsletter form {margin: 0 auto 20px;}
+  .text-feature-three .media-wrapper {height: 450px; margin: 50px auto 0; border-radius: 15px;}
+  
+  .block-feature-eight .section-btn,
+  .team-section-two .section-btn {position: relative; text-align: center; top:0;}
+  .hero-banner-three .right-widget .screen_01 {max-height: 200px;}
+  .footer-three .footer-nav-link a,.footer-four .footer-nav-link a {line-height: 42px;}
+  .footer-three .bottom-footer,.footer-four .bottom-footer {margin-top: 20px; padding: 20px 0 10px;}
+  .footer-three .round-bg {margin: 0 auto;}
+  .footer-three,.footer-four {padding-top: 50px;}
+
+  #isotop-gallery-wrapper {margin: 0 -12px;}
+  #isotop-gallery-wrapper .grid-sizer, #isotop-gallery-wrapper .isotop-item {padding: 0 12px;}
+  .footer-five h2 {font-size: 50px; line-height: 1.25em;}
+  .footer-five .btn-group {text-align: center; margin: 50px 0 70px; padding: 20px 20px 15px;}
+  .footer-five .btn-group .round-btn {margin: 0 auto;}
+  .footer-five .btn-group h3 {font-size: 28px; margin-bottom: 25px;}
+  .block-feature-three .block-five .block-title {padding: 10px 15px; margin-top: 20px;}
+  .project-details-one .project-info h3 {text-align: center; padding: 25px 0 20px; background: #fff;}
+  .project-details-one .project-info:before {display: none;}
+  .project-details-one .project-info {border: none; background: #cfff45;}
+  .project-details-one .project-info .inner-wrapper {padding: 0;}
+  .project-details-one h2 {font-size: 32px; margin-bottom: 16px;}
+  .project-details-one p {font-size: 18px;}
+  .card-style-sixteen.arrow:before, .card-style-sixteen.arrow:after {display: none;}
+  .team-details .bg-wrapper .member-img {height: 350px;}
+  .fancy-banner-six h2 {font-size: 45px;}
+
+
+  .hero-banner-six .hero-heading {font-size: 52px;}
+}
+/*(max-width: 991px)*/
+
+
+/*Between Grid md*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .block-feature-three .section-btn {top:38px;}
+  .team-section-one .section-btn {top:0;}
+  .hero-banner-two .hero-heading {font-size: 45px; line-height: 1.12em;}
+  .feedback-section-two .slider-wrapper { width: calc(100vw + 300px); transform: translateX(-150px);}
+  
+  
+}
+/*(min-width: 768px) and (max-width: 991px)*/
+
+
+
+/*Grid sm Start*/
+@media (max-width: 767px) {
+
+  .block-feature-three .section-btn,.team-section-one .section-btn,
+  .team-section-three .section-btn {position: relative; width: 100%; text-align: center; top:0;}
+  .hero-banner-two .hero-heading {font-size: 40px; line-height: 1.12em;}
+
+  .text-feature-three .media-wrapper .screen_02 {left: 0;}
+  .text-feature-three .media-wrapper .screen_01 {right: 0;}
+  .feedback-section-two .slider-wrapper {width: 100%; transform: none; padding: 0 12px;}
+  .fancy-banner-three {text-align: center;}
+  .fancy-banner-three .quote-btn {margin: 30px auto 0;}
+
+  .text-feature-three .media-wrapper .screen_03 {left: 0; bottom: -5%;}
+  .team-details .bg-wrapper .border-right {border-right: none; border-bottom: 1px solid #e9e9e9;}
+
+  .hero-banner-six .media-wrapper {height: 400px;}
+  .hero-banner-six .media-wrapper .bg-shape {max-width: 90%; bottom: -5%;}
+  .hero-banner-six .media-wrapper .screen_02 {left: 0;}
+  .portfolio-two .slider-wrapper {width: 100%; max-width: 600px; margin: 0 auto; transform: none; padding: 0 12px;}
+}
+/*(max-width: 767px)*/
+
+
+
+
+/*Between Grid sm*/
+@media (min-width: 576px) and (max-width: 767px) {
+  
+
+}
+/*(min-width: 576px) and (max-width: 767px)*/
+
+
+
+/*Extra Small breakpoints*/
+@media (max-width: 575px) {
+  .hero-banner-two form {height: 60px;}
+  .block-feature-four .shape_01,.feedback-section-two .shape_01 {font-size: 40px;}
+  #isotop-gallery-wrapper.column-two .grid-sizer, #isotop-gallery-wrapper.column-two .isotop-item {width: 100%;}
+
+  .error-page .shape_01,.error-page .shape_02 {bottom: 0;}
+  .product-details-one .product-review-tab .nav-tabs .nav-link {margin-right: 20px; letter-spacing: 0.3px;}
+
+  .hero-banner-three .right-widget .screen_01,.hero-banner-three .img-wrapper{position: static; transform: none; margin-top: 35px;}
+
+
+
+
+  
+}
+/*(max-width: 575px)*/
